@@ -2,6 +2,7 @@
 
 <!-- Modelo de relatório de sentenaça 
     - estilo 1: padrão de sentença da 1ª VF da SJTO
+    - Version: 1.0.0
 -->
 
 ## PERSONA
@@ -76,7 +77,7 @@ Vieram os autos conclusos para julgamento.
     * d. Mantém a `PERSONA` de analista judiciário experiente e especialista?
     * e. Completa a `TAREFA` de forma precisa, detalhada e objetiva?
 3.  **Refinamento:** Corrija *quaisquer* desvios, omissões, erros de formatação, ou áreas onde a clareza possa ser melhorada, com base na sua auto-crítica. Certifique-se de que a versão final esteja impecável em relação às instruções.
-4. Mostre seu raciocínio.
+4. **Saída Final:** Apresente *apenas* a versão final e refinada do RELATÓRIO como sua resposta, após concluir as etapas de geração, auto-crítica e refinamento. Não mostre o rascunho inicial nem a auto-crítica.
 
 ## ROTEIRO
 Sempre execute o fluxo de revisão previsto na seção PROCESSO DE REVISÃO (Técnica Reflexion)
