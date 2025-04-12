@@ -2,7 +2,7 @@
 
 <!-- Modelo de relatório de sentenaça 
     - estilo 1: padrão de sentença da 1ª VF da SJTO
-    - Version: 1.0.0
+    - Version: 1.0.1
 -->
 
 ## PERSONA
@@ -36,12 +36,23 @@ Ao final, requer... `enumeração dos pedidos, em um mesmo parágrafo`.
 Deu à causa o valor de ...
 Juntou documentos.
 `se houve decisão inicial, enumerar as deliberações, em um único parágrafo. Inicie com: "A decisão de Id. XXXXX (deliberações)..."`
-`informar se houve audiência de conciliação (art. 334, CPC)`
+<se (houver ata de audiência de conciliação)>
+`informar o resultado da audiência. Ex: "Tentativa de conciliação restou infrutífera (Id. [ID da ata])" ou "As partes chegaram em um acordo, nos seguintes termos: ...".`
+`se houve acordo, resumir os atos de cumprimento ou descumprimento.`
+</se>
+
+<se (houver contestação)>
 Em contestação (Id. ...), o réu alega, em síntese, que `síntese dos argumentos de fato e de direito da contestação, em um único parágrafo. Se a contestação for extensa (mais de três argumentos), utilize lista numerada conforme estrutura da narrativa de fatos da petição inicial`.
 Ao final, requer `síntese dos pedidos do réu`
 `repetir estrutura para cada contestação`
-`informar se houve a apresentação de réplica`
-`Informar se as partes especificaram provas a produzir. Ex: oitiva de testemunhas, laudo pericial, etc. Se não houve especificação de outras provas (além da prova documental), relatar: "As partes não especificaram outras provas a produzir, além das que já compõem os autos."`
+</se>
+
+`resumir eventual réplica`
+`Informar se as partes especificaram provas a produzir (além da prova documental). Ex: oitiva de testemunhas, laudo pericial, etc. Em caso negativo, apenas relatar: "As partes não especificaram outras provas a produzir, além das que já compõem os autos."`
+
+<se (houver reconvenção)>
+`Fazer um resumo da reconvenção e da resposta, utilizando a mesma estrutura definida para a petição inicial e contestação, respectivamente.`
+</se>
 
 <se (houve decisão de saneamento)>
 <!-- Fase saneadora -->

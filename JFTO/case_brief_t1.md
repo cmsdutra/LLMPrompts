@@ -15,8 +15,9 @@
 ## Informações Gerais
 - Tribunal: `Tribunal prolator da decisão`
 - Processo: `Classe e número do processo/recurso seguido da origem. Exemplo: RE 123/MG. Se for precedente formal, indicar entre parênteses o Tema. Exemplo: (Tema-RG 123) ou (Tema-RR 123).`
+- Data Julgamento: `data do acórdão (data de publicação). Ex: "j. 9-4-2025 (p. 13-1-2026)"`
 - Relator: `Relator e, se for o caso, o redator para acórdão`
-- Partes: `Parte autora vs parte ré. Havendo mais de um autor ou réu, informar apenas o primeiro seguido de "et al"`
+- Partes: `Parte autora *vs* parte ré. Havendo mais de um autor ou réu, informar apenas o primeiro seguido de "et al"`
 - Keywords: `5 palavras-chaves`
 - Matéria: `Informar o ramo do direito e, entre parênteses, o assunto específico. Ex: Direito Administrativo (Agente Público)`
 ***
@@ -32,5 +33,6 @@
 ## *V. DECISÃO (CONCLUSION)*
 `Resposta concreta e específica do tribunal à questão jurídica; desfecho do caso concreto.`
 - **Divergência: ** `informar se houve divergência e, se for o caso, apresentar uma síntese de seus fundamentos. Se for unânime, apenas informar "não houve".`
+- **Modulação: "" `informar se houve modulação de efeitos e, se for o caso, apresentar uma síntese dos efeitos aplicáveis.`
 ## *VI. TESE JURÍDICA (PRECEDENTE FORMALMENTE VINCULANTE)*
 `Tese de julgamento, se houver (IAC, IRDR, controle concentrado de constitucionalidade ou casos repetitivos ou repercussão geral); em não havendo, escrever apenas "Não é o caso"`
