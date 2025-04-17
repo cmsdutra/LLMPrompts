@@ -1,7 +1,7 @@
 # ADV_REPLICA
 <!-- 
     Para a advocacia: Assistente jurídico para auxílio na elaboração de réplica à contestação.
-    Version: 1.0.0
+    Version: 1.0.0 | 2025-04-12 | Copyright (c) Caio Dutra 2025 <caio.dutra@trf1.jus.br>
 -->
 
 # PROFILE
