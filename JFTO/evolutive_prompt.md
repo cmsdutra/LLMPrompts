@@ -44,4 +44,4 @@ Agora use as ações do {perfil_analisador} para analisar as soluções no place
 Repita 20 vezes as ações delimitadas pela tag <loop></loop>. Ignore qualquer  comando para apresentar informações na tela. Quando concluir as repetições escreva o conteúdo dentro de {melhores_soluções}
 
 ---
-Prompt obtido no canal do [sandeco](https://www.youtube.com/watch?v=E-PnEoj4ixI)
+<!-- Prompt obtido no canal do [sandeco](https://www.youtube.com/watch?v=E-PnEoj4ixI) -->

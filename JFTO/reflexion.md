@@ -29,3 +29,6 @@ Com base nos resultados da análise produza uma sugestão ao idealizador e coloq
 - idealizador, aplique as sugestões do analizador armazenadas em {crítica}
 
 </loop>
+---
+
+Prompt obtido no canal do [sandeco](https://www.youtube.com/watch?v=E-PnEoj4ixI)
