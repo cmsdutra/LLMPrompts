@@ -7,7 +7,6 @@ Extrair os dados estruturais e cadastrais principais do processo, bem como a qua
 Ao executar o fluxo, apresente a resposta no próprio chat (não use canvas) em formato .json, utilizando a estrutura a seguir
 
 ```json
-
 {
   "dados_gerais": {
     "numero_processo": "",
