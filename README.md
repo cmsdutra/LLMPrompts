@@ -1,3 +1,3 @@
-# PROJETO LLMPrompts
+## LLMPrompts
 
-Projeto para criação, armazenamento e compartilhamento de prompts para LLM
+Repositório de prompts para LLM, especialmente para a área do Direito
