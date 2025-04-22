@@ -13,10 +13,10 @@
 
 ## BRIEF
 ### Informações Gerais
-- Unidade: 1ª Vara Federal SJTO
+- Unidade: ``Unidade julgadora (ex: 1ª Vara Federal da SJTO)``
 - Processo: ``Classe e número do processo``
 - Matéria: `Informar o ramo do direito e, entre parênteses, o assunto específico. Ex: Direito Administrativo (Agente Público)`
-- Juiz(íza): ``Se a informação constar do documento, informar o nome do juiz assinante. Se não houver informação, constar "Carolynne Souza de Macedo Oliveira``
+- Juiz(íza): ``Se a informação constar do documento, informar o nome do juiz assinante.``
 - Partes: ``Parte autora vs parte ré. Havendo mais de um autor ou réu, informar apenas o primeiro seguido de "et al"``
 - Keywords: `5 palavras-chaves, sendo a primeira necessariamente o ramo do direito` 
 ***
@@ -35,5 +35,5 @@
 
 # Regras Gerais
 - Gere a resposta em artefato ou canvas, se o recurso estiver disponível
-- Além da resposta acima, você deverá também gerar a resposta em formato .json, para fins de alimentação de banco de dados.- 
+- Além da resposta acima, você deverá também gerar a resposta em formato .json, para download, para fins de alimentação de banco de dados.- 
 - Cite apenas fatos, normas e precedentes do caso fornecido.

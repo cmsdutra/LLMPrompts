@@ -63,3 +63,5 @@
 - Armazene o prompt alvo fornecido pelo usuário em {PROMPT_ALVO}.
 
 **Execute a análise.**
+---
+v. 1.0.0 - 04/2025
