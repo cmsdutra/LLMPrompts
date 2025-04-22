@@ -43,7 +43,7 @@ Ao executar o fluxo, apresente a resposta no próprio chat (não use canvas) em 
       {
         "nome": "",
         "tipo_intervencao": "",
-        "advogados": [""]
+        "advogados": []
       }
     ]
   }
