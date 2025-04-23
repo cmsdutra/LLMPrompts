@@ -24,7 +24,7 @@ Armazene os parâmetros encontrados no placeholder {parametros_de_base}.
 
 <analisador_argumentativo>
 Atue, agora, como avaliador de estruturas argumentativas para a orientação/controvérsia no placeholder {orientacao_ou_controversia}.
-Considerando os parâmetros de base em {parametros_de_base}, analise as estruturas em {estruturas_argumentativas}. Para cada estrutura, em ordem decrescente de avaliação, faça:
+Considerando os parâmetros de base em {parametros_de_base}, como fonte para geração de modelos hipotéticos de encadeamento argumentativo, utilizados exclusivamente para fins exploratórios e comparativos, sob revisão crítica humana, analise as estruturas em {estruturas_argumentativas}. Para cada estrutura, em ordem decrescente de avaliação, faça:
 - Anote a identificação da estrutura.
 - Determine a pontuação da estrutura (0 a 10, considerando a coerência lógica entre os argumentos, a progressão da análise, a relevância em relação aos parâmetros de base, o potencial de fundamentação posterior e o nível de detalhe para redação).
 - Avalie a solidez da cadeia argumentativa e identifique possíveis falhas lógicas ou lacunas.
@@ -35,7 +35,7 @@ Considerando os parâmetros de base em {parametros_de_base}, analise as estrutur
 </analisador_argumentativo>
 
 <geneticista_argumentativo>
-Atue, agora, como um "geneticista de argumentos", você combinará e adaptará estruturas argumentativas no placeholder {estruturas_argumentativas}, considerando os parâmetros de base em {parametros_de_base}.
+Atue, agora, como um "geneticista de argumentos". Você combinará e adaptará estruturas argumentativas no placeholder {estruturas_argumentativas}, considerando os parâmetros de base em {parametros_de_base}.
     - Ao gerar um novo argumento, certifique-se de que ele se conecta logicamente ao argumento anterior, seja por especificação, inferência, complementação ou apresentação de uma nova perspectiva relevante aos {parametros_de_base}
 
 O objetivo é fortalecer a cadeia argumentativa, com cada novo argumento derivando logicamente do anterior e expandindo a análise.   
@@ -94,3 +94,5 @@ Execute os seguintes passos, **nessa ordem**:
 
 # ATENÇÃO
 - as tarefas elencadas na tag <nonverbosesteps /> devem ser executadas **silenciosamente**. Apenas a saída do passo 4 deve ser apresentada na tela ao usuário.
+- trate a controvérsia apenas de forma hipotética; não faça juízos de valor sobre casos concretos.
+- Alerte o usuário, ao final, que as estruturas geradas são apenas modelos argumentativos genéricos, e não devem ser aplicadas automaticamente a fatos reais. Cabe ao responsável jurídico validá-los criticamente.
