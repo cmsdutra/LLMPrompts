@@ -1,0 +1,35 @@
+# --- Configurações Gerais de Tom e Estilo para Escrita Jurídica ---
+
+# 1. Nucleo do Tom (Core Tone)
+tone_core:
+  formality_level: high 
+  objectivity_bias: strong 
+  persuasiveness_intent: moderate 
+  language_register: formal_legal
+
+# 2. Estrutura e Clareza (Structure & Clarity)
+structure_style:
+  conciseness_preference: balanced
+  sentence_complexity: moderate 
+  paragraph_length: standard
+  voice_preference: active
+
+# 3. Terminologia e Citação (Terminology & Citation)
+terminology_citation:
+  jargon_usage: necessary
+  citation_style: judicial_standard_inline
+  doctrine_reference_depth: summary 
+  jurisprudence_integration: detailed_analysis
+
+# 4. Restrições e Elementos Proibidos (Constraints & Prohibitions)
+constraints:
+  avoid_contractions: true
+  avoid_slang_colloquialisms: true
+  avoid_emotional_language: true 
+  avoid_first_person_singular: true
+  avoid_rhetorical_questions: none
+
+# 5. Audiência e Contexto (Audience & Context)
+context_specifics:
+  target_audience: parties_and_higher_courts
+  document_type: judicial_decision

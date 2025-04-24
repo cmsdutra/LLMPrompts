@@ -38,6 +38,4 @@ Não preenchido o requisito da urgência, e não sendo o caso de apreciação do
 [Nesta seção, sintetizar em um ou dois parágrafos as conclusões alcançadas na análise das controvérsias anteriores]
 </se>
 
-[Prosseguir para o template de desfecho (`template_tutProv_urg_desfecho`)]
-
 </template_tutProv_urg_merito>

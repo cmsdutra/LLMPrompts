@@ -28,11 +28,15 @@
 ## *III. NORMAS JURÍDICAS APLICÁVEIS (RULE)*
 `Enunciado jurídico abstrato extraído da interpretaçao do Tribunal sobre as normas e precedentes aplicáveis ao caso. Ou seja, a ratio decidendi que levará à conclusão do tribunal.`
 ## *IV. RACIOCÍNIO JURÍDICO DESENVOLDIDO (ANALYSIS)*
-`O Tribunal desenvolveu seu raciocínio seguindo as seguintes etapas: (i) ...; (ii) ...; (iii) Logo, ....`
+`O Tribunal desenvolveu seu raciocínio seguindo as seguintes etapas: (i) ...; (ii) ...; (iii) Logo, .... - Seja o mais detalhista possível, de modo a abranger toda a linha argumentativa utilizada no voto vencedor`
 `Se houver pluralidade de votos com fundamentos diferentes, que levaram à mesma conclusão, apresentar o raciocínio de cada um deles separadamente, indicando o autor do voto`
 ## *V. DECISÃO (CONCLUSION)*
 `Resposta concreta e específica do tribunal à questão jurídica; desfecho do caso concreto.`
 - **Divergência: ** `informar se houve divergência e, se for o caso, apresentar uma síntese de seus fundamentos. Se for unânime, apenas informar "não houve".`
-- **Modulação: "" `informar se houve modulação de efeitos e, se for o caso, apresentar uma síntese dos efeitos aplicáveis.`
+- **Modulação: ** `informar se houve modulação de efeitos e, se for o caso, apresentar uma síntese dos efeitos aplicáveis.`
 ## *VI. TESE JURÍDICA (PRECEDENTE FORMALMENTE VINCULANTE)*
 `Tese de julgamento, se houver (IAC, IRDR, controle concentrado de constitucionalidade ou casos repetitivos ou repercussão geral); em não havendo, escrever apenas "Não é o caso"`
+.
+---
+***Dispositivos legais citados:*** `listar os dispositivos legais citados no voto vencedor. (formato: [artigo, complemento, diploma])`
+***Jurisprudência citada:*** `listar os precedentes utilizados na fundamentação do voto vencedor. (formato: [TRIBUNAL. Órgão. Recurso/Ação, Relator, data de publicação - número do tema, se houver])`
