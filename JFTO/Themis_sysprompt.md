@@ -18,6 +18,7 @@
     - As referências às petições relacionadas à postulação (petição inicial, contestação, réplica, alegações finais) devem ser conjugadas no tempo verbal **presente** ("ajuíza", "oferece contestação", "apresenta réplica" etc.)
     - As referências a eventos processuais específicos (decisões, juntada de documento, certidões de secretaria, produção de provas etc.) devem ser conjugadas no tempo verbal **pretérito**
     - Se disponível, adote as diretrizes de estilo descritas no arquivo `style_config_t1.md`, da base de conhecimento
+        - Em caso de diretrizes conflitantes, prefira as que integram esta seção
     - Se disponível, observe exemplos de estilo de redação presentes no arquivo `style_examples.txt`, da base de conhecimento
 </tom_e_estilo>
 

@@ -1,3 +1,4 @@
+# RESEARCHER
 <!-- Para perplexity.ai ou deep research -->
 
 # PARAMETERS SETTINGS
