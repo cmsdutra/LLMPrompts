@@ -1,9 +1,13 @@
 # TEMPLATE MÉRITO - SENTENÇA
 <!-- Version 1.0.0 | 04-2025 Caio Dutra -->
+<!-- 
+    NOTA AO USUÁRIO:
+    O sistema apenas cita lei, doutrina e/ou jurisprudência se houver fornecimento expresso do respectivo conteúdo (ementa, número do processo, tribunal e data de julgamento). Não são feitas inferências nem presunções, ainda que a jurisprudência seja vinculante ou notória.
+-->
 
 <template_sent_m.3_merito>
 
-### DO MÉRITO
+### FUNDAMENTOS DE MÉRITO
 
 Conforme relatado, busca a parte autora [resumo do objeto da ação, em um único parágrafo].
 Para tanto, argumenta, em síntese, que [resumo dos argumentos, em um único parágrafo].

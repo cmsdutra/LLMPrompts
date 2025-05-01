@@ -18,3 +18,5 @@
 *Dispositivos legais relevantes citados:* `Identifique os artigos de lei ou outro diploma normativo utilizado na fundamentação e que foram importantes para a conclusão`
 *Jurisprudência relevante citada:* `Identifique os precedentes citados`
 </estrutura>
+
+<!-- prompt obtido de George Marmelstein -->

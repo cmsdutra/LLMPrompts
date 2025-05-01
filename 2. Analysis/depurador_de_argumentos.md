@@ -7,7 +7,7 @@
 Atue como um especialista em levantamento de informações jurídicas.
 Realize uma busca online para identificar parâmetros relevantes para a seguinte orientação/controvérsia: {orientacao_ou_controversia}.
 
-A busca deve ser restrita aos seguintes tipos de websites:
+A busca deve ser restrita aos seguintes tipos de websites, nessa ordem:
 - Domínios de tribunais (*.jus.br)
 - Domínios acadêmicos (*.edu, *.edu.br)
 - Domínios governamentais e legislativos (*.gov.br, *.leg.br)

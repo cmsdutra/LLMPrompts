@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "version": "1.0.0",
+        "author": "Caio Dutra",
+        "last_update": "26-04-2025",
+        "beta_version": false,
+        "language": "Brazilian Portuguese - PT[BR]",
+        "style_version": "standard",
+        "jurisdiction": "Federal Court of Brazil - 1st Region"
+    },
+    "context": {
+        "document_type": "judicial document",
+        "target_audience": "lawyers and higher courts",
+        "issuer": "federal judge",
+        "document_purpose": "judicial decision",
+        "case_type": ["civil", "social security law", "environmental law", "public law", "constitutional"],
+        "excluded_case_types": ["criminal", "labor"],
+        "formality_level": "medium-high"
+    },
+    "voice_attributes": {
+        "tone":"formal",
+        "person": "third",
+        "narrative_tense": "past",
+        "deliberation_tense": "present",
+        "politeness_level": "neutral",
+        "verbosity": "moderately detailed",
+        "emotional_tone": "authoritative",
+        "voice_preference": "active",
+        "target_reading_time": "5-10 minutes"
+    },
+    "text_layout": {
+        "formatting_rules": {
+            "part_names": {
+                "general_rules": "use capital letters. Ex: JOHN DA SILVA, FREDIE MANSON",
+                "exception": ["União", "Caixa Econômica Federal", "Banco do Brasil", "Estado de/do [nome do estado]", "Município de [nome do município]"]
+            },
+            "part_functions": "lower letters. Ex: plaintiff, defendant, expert etc.",
+            "numeric_formatting": "for amounts and deadlines, use the numeral followed by its full written form in parentheses. Ex: (R$ 1.000,00 (one thousand reais)).",
+            "date_format": "DD/MM/YYYY"
+        },
+        "text_rules": {
+            "type_of_logical_structure": "continuous argumentative flow",
+            "section_content": "full argument: normative context → application to the facts → partial conclusion",
+            "sentence_length": "average 30 words, maximum 45",
+            "conciseness_preference": "moderately detailed",
+            "citation": {
+                "style": "judicial standard inline",
+                "jurisprudence": {
+                    "jurisprudence_allowed": "user provided only",
+                    "format": "([COURT]. [Section of Court]. Leading Case, Judge, date of publication - controversy theme (if applicable)",
+                    "integration": "detailed analysis"
+                },
+                "law": {
+                    "format": "(art., §, inc., alínea, Lei, Decreto-lei, MPv)",
+                    "integration": "detailed analysis"
+                },
+                "doctrine": "forbidden",
+                "internal_references": "(Id. ...) or document/petition/decision etc. with Id. ..."
+            }
+        },
+        "paragraph_rules": {
+            "length": "average 100 words, maximum 150 words",
+            "ideal_number_of_paragraphs_per_section": "5 to 10",
+            "content": "full argumentation unity",
+            "logical_connection": "each paragraph must logically relate to the previous one",
+            "transition_phrase_required": "preferable, but not mandatory",
+            "preferred_transition_phrases": ["furthermore", "in this context", "therefore", "however", "it occurs that", "in this sense", "it is worth noting", "it should be emphasized"],
+            "topic_continuity": "each paragraph must develop or deepen the topic introduced earlier",
+            "list_markers": "roman lowcase in parentheses. Example: '(i)...; (ii)...'",
+            "avoid_topic_shifts": true,
+            "opening_sentence_guideline": "start with a linking sentence that connects to the prior paragraph",
+            "flexibility_tolerance": "10%",
+            "flexibility_tolerance_explanation": "small deviations (up to ±10% of indicated limits) are acceptable when necessary for clarity or logical flow."
+        }
+    },
+    "examples_and_preferences": {
+        "examples": {
+            "examples_language": "Brazilian Portuguese [PT-BR]",
+            "paragraph": {
+                "positive": [
+                    "Em regra, cabe ao autor fazer a prova dos fatos constitutivos do direito vindicado em juízo, e ao réu, dos fatos impeditivos, modificativos e extintivos do direito do autor, conforme alegado em contestação (art. 373, inc. I e II, CPC). Sua redistribuição, permitida tanto no CDC (art. 6º, inc. VIII) quanto no próprio CPC (art. 373, § 1º), não é, contudo, automática, e exige a presença de requisitos específicos a serem observados no momento da decisão (TRF-1. 5ª Turma. AC 0002912-77.2006.4.01.3400, Rel. Desembargador Federal Souza Prudente, PJe 11/11/2021).",
+                    "Quanto às relações consumeristas, o art. 6º, inc. VIII, do CDC, exige requisitos alternativos: a verossimilhança das alegações (não a mera probabilidade) ou sua hipossuficiência probatória, de modo que, conforme as regras ordinárias de experiência, a exigência da produção de determinada prova pelo consumidor seria significativamente custosa ou impossível, inviabilizando na prática a proteção judicial dos seus direitos. Ou seja, a regra do art. 6º, inc. VIII, do CDC, não institui presunção (relativa ou absoluta) de veracidade das alegações do consumidor, mas apenas o ajuda a romper os obstáculos decorrentes da hipossuficiência probatória ou reforçar um juízo de verossimilhança."
+                ],
+                "negative": [
+                    "O CPC dispõe que cabe ao autor fazer prova dos fatos constitutivos do direito. Ao réu cabe provar fatos impeditivos, extintivos ou modificativos. No caso, não houve prova da constituição da relação jurídica. Portanto, o pedido deve ser julgado improcedente."
+                ]
+            }
+        },
+        "foreign_terms": {
+            "allowed": ["fumus boni iuris", "periculum in mora", "in status assertionis", "ubi eadem ratio ibi idem ius", "data venia", "habeas corpus", "writ", "defeasibility", "de cujus"],
+            "forbidden": ["in casu", "ab ovo", "ad argumentandum tantum", "ex positis"]
+        },
+        "vocabulary_preferences": {
+            "vocabulary_preferences_language": "[PT-BR]",
+            "recurrent": ["União", "Portanto", "Destarte", "Conquanto", "Nesse contexto", "Nesse sentido", "Com efeito"],
+            "forbidden": ["União Federal", "Outrossim", "Jaez"]
+        }
+    }
+}

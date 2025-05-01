@@ -1,23 +1,29 @@
 # TEMPLATE FUNDAMENTAÇÃO - TUTELA PROVISÓRIA DE URGÊNCIA
+<!-- v. 1.0.0 | 04-2025 -->
 
 <template_tutProv_urg_merito>
 
 ### FUNDAMENTAÇÃO
 
 <se (houver questões prefaciais ao pedido de tutela (como recebimento de emenda, deliberação sobre gratuidade da justiça etc.))>
-    Pendem de decisão as seguintes questões: [lista das questões pendentes, no mesmo parágrafo. Exemplo: "(i) o pedido de gratuidade da justiça; (ii) recebimento de emenda; e (iii) o pedido de tutela provisória"]
+    
+Pendem de decisão as seguintes questões: [lista das questões pendentes, no mesmo parágrafo. Exemplo: "(i) o pedido de gratuidade da justiça; (ii) recebimento de emenda; e (iii) o pedido de tutela provisória"]
 
-    <para (cada questão prefacial)>
+<para (cada questão prefacial)>
 
-    ***[TÍTULO DA QUESTÃO PREFACIAL - EX: GRATUIDADE DA JUSTIÇA]***
-    `deliberação sobre a questão prefacial`
-    <exemplo>
+***[TÍTULO DA QUESTÃO PREFACIAL - EX: GRATUIDADE DA JUSTIÇA]***
+`deliberação sobre a questão prefacial`
+
+<exemplo>
+
     Não há elementos que infirmem a presunção de veracidade da autodeclaração de hipossuficiência econômica apresentada pela parte autora (art. 99, § 3º, CPC), razão pela qual devem lhe ser deferidos os benefícios da gratuidade da justiça.
-    </exemplo>
 
-    </para>
+</exemplo>
 
-    ***TUTELA PROVISÓRIA***
+</para>
+
+***TUTELA PROVISÓRIA***
+
 </se>
 
 Conforme relatado, a parte autora requer tutela provisória de urgência, objetivando [descrever o provimento jurisdicional pleiteado].
