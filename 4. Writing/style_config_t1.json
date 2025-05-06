@@ -26,7 +26,7 @@
         "verbosity": "moderately detailed",
         "emotional_tone": "authoritative",
         "voice_preference": "active",
-        "target_reading_time": "5-10 minutes"
+        "target_reading_time": "8-15 minutes"
     },
     "text_layout": {
         "formatting_rules": {
@@ -43,8 +43,23 @@
             "section_content": "full argument: normative context → application to the facts → partial conclusion",
             "sentence_length": "average 30 words, maximum 45",
             "conciseness_preference": "moderately detailed",
+            "generation_parameters": {
+                "temperature": 0.2,
+                "top_p": 0.8,
+                "presence_penalty": 0.3,
+                "frequency_penalty": 0.5
+            },
             "citation": {
-                "style": "judicial standard inline",
+                "default_citation_type": "indirect",
+                "default_citation_parameters": {
+                    "style": "judicial standard inline",
+                    "literal_extraction": false,
+                    "paraphrase_allowed": true,
+                    "temperature": 0.0,
+                    "top_p": 1.0,
+                    "frequency_penalty": 0.3,
+                    "presence_penalty": 0.3
+                },
                 "jurisprudence": {
                     "jurisprudence_allowed": "user provided only",
                     "format": "([COURT]. [Section of Court]. Leading Case, Judge, date of publication - controversy theme (if applicable)",
@@ -55,7 +70,23 @@
                     "integration": "detailed analysis"
                 },
                 "doctrine": "forbidden",
-                "internal_references": "(Id. ...) or document/petition/decision etc. with Id. ..."
+                "internal_references": "(Id. ...) or document/petition/decision etc. with Id. ...",
+                "direct_quote": {
+                    "literal_extraction": true,
+                    "temperature": 0.0,
+                    "top_p": 0.0,
+                    "frequency_penalty": 0.0,
+                    "presence_penalty": 0.0,
+                    "instructions": [
+                        "Always extract quotes exactly as they appear in the original text.",
+                        "Do not rephrase, correct, summarize or interpret the content.",
+                        "Preserve all original punctuation, spelling, accents, and formatting.",
+                        "If the requested quote is not found literally, do not return anything",
+                        "Do not add commentary, explanation, or ellipses to the excerpt.",
+                        "Surround direct quotes with double quotation marks (\")."
+                    ],
+                    "fallback_response": null
+                }
             }
         },
         "paragraph_rules": {

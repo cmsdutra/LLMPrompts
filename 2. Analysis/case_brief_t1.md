@@ -1,6 +1,6 @@
 # CASE BRIEF (ESTILO FIRAC)
 
-<!-- Estrutura para fichamneto de decisão judicial no estilo FIRAC, ou case briefing norte-americano.
+<!-- Estrutura para fichamento de decisão judicial no estilo FIRAC, ou case briefing norte-americano.
     - Tipo 1: acórdãos. Finalidade: estudo e compreensão.
     - Version: 1.0.0
 -->
@@ -26,7 +26,7 @@
 ## *II. QUESTÃO JURÍDICA A SER RESPONDIDA (ISSUE)*
 `A questão jurídica submetida à deliberação do Juízo ou da Corte é: ?`
 ## *III. NORMAS JURÍDICAS APLICÁVEIS (RULE)*
-`Enunciado jurídico abstrato extraído da interpretaçao do Tribunal sobre as normas e precedentes aplicáveis ao caso. Ou seja, a ratio decidendi que levará à conclusão do tribunal.`
+`Enunciado jurídico abstrato extraído da interpretaçao do Tribunal sobre as normas e precedentes aplicáveis ao caso. Ou seja, é a norma jurídica interpretada que embasa a análise do tribunal (analysis) sobre a questão jurídica específica (issue).`
 ## *IV. RACIOCÍNIO JURÍDICO DESENVOLDIDO (ANALYSIS)*
 `O Tribunal desenvolveu seu raciocínio seguindo as seguintes etapas: (i) ...; (ii) ...; (iii) Logo, .... - Seja o mais detalhista possível, de modo a abranger toda a linha argumentativa utilizada no voto vencedor`
 `Se houver pluralidade de votos com fundamentos diferentes, que levaram à mesma conclusão, apresentar o raciocínio de cada um deles separadamente, indicando o autor do voto`
@@ -38,5 +38,5 @@
 `Tese de julgamento, se houver (IAC, IRDR, controle concentrado de constitucionalidade ou casos repetitivos ou repercussão geral); em não havendo, escrever apenas "Não é o caso"`
 .
 ---
-***Dispositivos legais citados:*** `listar os dispositivos legais citados no voto vencedor. (formato: [artigo, complemento, diploma])`
-***Jurisprudência citada:*** `listar os precedentes utilizados na fundamentação do voto vencedor. (formato: [TRIBUNAL. Órgão. Recurso/Ação, Relator, data de publicação - número do tema, se houver])`
+***Dispositivos legais citados:*** `listar (bullet points) os dispositivos legais citados no voto vencedor. (formato: [artigo, complemento, diploma])`
+***Jurisprudência citada:*** `listar (bullet points) os precedentes utilizados na fundamentação do voto vencedor. (formato: [TRIBUNAL. Órgão. Recurso/Ação, Relator, data de publicação - número do tema, se houver])`
